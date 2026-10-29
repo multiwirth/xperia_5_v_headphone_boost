@@ -51,7 +51,7 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
-/system/vendor/etc/audio/sku_lahaina/mixer_paths.xml"
+/system/vendor/etc/audio/sku_kalama/mixer_paths_kalama_qrd.xml"
 
 ##########################################################################################
 #
@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "******************************************"
-  ui_print "  Sony Xperia 5 III headphone gain boost  "
+  ui_print "  Sony Xperia 5V headphone gain boost  "
   ui_print "******************************************"
 }
 
